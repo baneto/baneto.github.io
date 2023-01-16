@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/baneto/baneto.github.io.git/static/css/main.073c9b0a.css",
+    "main.js": "/baneto/baneto.github.io.git/static/js/main.966a14ab.js",
+    "static/js/787.7f9b1c0f.chunk.js": "/baneto/baneto.github.io.git/static/js/787.7f9b1c0f.chunk.js",
+    "static/media/logo.svg": "/baneto/baneto.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/baneto/baneto.github.io.git/index.html",
+    "main.073c9b0a.css.map": "/baneto/baneto.github.io.git/static/css/main.073c9b0a.css.map",
+    "main.966a14ab.js.map": "/baneto/baneto.github.io.git/static/js/main.966a14ab.js.map",
+    "787.7f9b1c0f.chunk.js.map": "/baneto/baneto.github.io.git/static/js/787.7f9b1c0f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.966a14ab.js"
+  ]
+}
