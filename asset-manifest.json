@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/baneto/baneto.github.io/static/css/main.2e22e8a5.css",
-    "main.js": "/baneto/baneto.github.io/static/js/main.fe40227f.js",
-    "static/js/787.7f9b1c0f.chunk.js": "/baneto/baneto.github.io/static/js/787.7f9b1c0f.chunk.js",
-    "static/media/aros_oro1.jpg": "/baneto/baneto.github.io/static/media/aros_oro1.0f73e149b7dbb3177c04.jpg",
-    "static/media/pinias.jpg": "/baneto/baneto.github.io/static/media/pinias.3d1022cf7a9f317e5907.jpg",
-    "static/media/hojas_oro1.jpg": "/baneto/baneto.github.io/static/media/hojas_oro1.697f97d4c4ee9af23741.jpg",
-    "static/media/plumas_plata.jpg": "/baneto/baneto.github.io/static/media/plumas_plata.935c726ac57049148dfb.jpg",
-    "static/media/colgantes.jpg": "/baneto/baneto.github.io/static/media/colgantes.dcbd6a6dba04cd96f406.jpg",
-    "static/media/aros_oro.jpg": "/baneto/baneto.github.io/static/media/aros_oro.19536016361828b80542.jpg",
-    "static/media/colgantes1.jpg": "/baneto/baneto.github.io/static/media/colgantes1.0d87f38b17722a0ed17b.jpg",
-    "static/media/aros_plata1.jpg": "/baneto/baneto.github.io/static/media/aros_plata1.5f35c71394394a7dc490.jpg",
-    "static/media/plumas_oro.jpg": "/baneto/baneto.github.io/static/media/plumas_oro.64b308ed1df370391f70.jpg",
-    "static/media/hojas_oro.jpg": "/baneto/baneto.github.io/static/media/hojas_oro.d669043da5258968a46c.jpg",
-    "static/media/cactus_plata1.jpg": "/baneto/baneto.github.io/static/media/cactus_plata1.fce1e1d91755ceeb54aa.jpg",
-    "static/media/cactus_plata.jpg": "/baneto/baneto.github.io/static/media/cactus_plata.3912d0fe52c3d986eaa2.jpg",
-    "static/media/logo.jpg": "/baneto/baneto.github.io/static/media/logo.06b1d683fa5cbd2b97c5.jpg",
-    "static/media/aros_plata.jpg": "/baneto/baneto.github.io/static/media/aros_plata.bc0dd2e5922a2f46be5e.jpg",
-    "index.html": "/baneto/baneto.github.io/index.html",
-    "main.2e22e8a5.css.map": "/baneto/baneto.github.io/static/css/main.2e22e8a5.css.map",
-    "main.fe40227f.js.map": "/baneto/baneto.github.io/static/js/main.fe40227f.js.map",
-    "787.7f9b1c0f.chunk.js.map": "/baneto/baneto.github.io/static/js/787.7f9b1c0f.chunk.js.map"
+    "main.css": "/baneto/static/css/main.2e22e8a5.css",
+    "main.js": "/baneto/static/js/main.91c2c8ff.js",
+    "static/js/787.7f9b1c0f.chunk.js": "/baneto/static/js/787.7f9b1c0f.chunk.js",
+    "static/media/aros_oro1.jpg": "/baneto/static/media/aros_oro1.0f73e149b7dbb3177c04.jpg",
+    "static/media/pinias.jpg": "/baneto/static/media/pinias.3d1022cf7a9f317e5907.jpg",
+    "static/media/hojas_oro1.jpg": "/baneto/static/media/hojas_oro1.697f97d4c4ee9af23741.jpg",
+    "static/media/plumas_plata.jpg": "/baneto/static/media/plumas_plata.935c726ac57049148dfb.jpg",
+    "static/media/colgantes.jpg": "/baneto/static/media/colgantes.dcbd6a6dba04cd96f406.jpg",
+    "static/media/aros_oro.jpg": "/baneto/static/media/aros_oro.19536016361828b80542.jpg",
+    "static/media/colgantes1.jpg": "/baneto/static/media/colgantes1.0d87f38b17722a0ed17b.jpg",
+    "static/media/aros_plata1.jpg": "/baneto/static/media/aros_plata1.5f35c71394394a7dc490.jpg",
+    "static/media/plumas_oro.jpg": "/baneto/static/media/plumas_oro.64b308ed1df370391f70.jpg",
+    "static/media/hojas_oro.jpg": "/baneto/static/media/hojas_oro.d669043da5258968a46c.jpg",
+    "static/media/cactus_plata1.jpg": "/baneto/static/media/cactus_plata1.fce1e1d91755ceeb54aa.jpg",
+    "static/media/cactus_plata.jpg": "/baneto/static/media/cactus_plata.3912d0fe52c3d986eaa2.jpg",
+    "static/media/logo.jpg": "/baneto/static/media/logo.06b1d683fa5cbd2b97c5.jpg",
+    "static/media/aros_plata.jpg": "/baneto/static/media/aros_plata.bc0dd2e5922a2f46be5e.jpg",
+    "index.html": "/baneto/index.html",
+    "main.2e22e8a5.css.map": "/baneto/static/css/main.2e22e8a5.css.map",
+    "main.91c2c8ff.js.map": "/baneto/static/js/main.91c2c8ff.js.map",
+    "787.7f9b1c0f.chunk.js.map": "/baneto/static/js/787.7f9b1c0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e22e8a5.css",
-    "static/js/main.fe40227f.js"
+    "static/js/main.91c2c8ff.js"
   ]
 }
