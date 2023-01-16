@@ -1,16 +1,29 @@
 {
   "files": {
-    "main.css": "/baneto/baneto.github.io.git/static/css/main.073c9b0a.css",
-    "main.js": "/baneto/baneto.github.io.git/static/js/main.966a14ab.js",
+    "main.css": "/baneto/baneto.github.io.git/static/css/main.2e22e8a5.css",
+    "main.js": "/baneto/baneto.github.io.git/static/js/main.e56b699e.js",
     "static/js/787.7f9b1c0f.chunk.js": "/baneto/baneto.github.io.git/static/js/787.7f9b1c0f.chunk.js",
-    "static/media/logo.svg": "/baneto/baneto.github.io.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/aros_oro1.jpg": "/baneto/baneto.github.io.git/static/media/aros_oro1.0f73e149b7dbb3177c04.jpg",
+    "static/media/pinias.jpg": "/baneto/baneto.github.io.git/static/media/pinias.3d1022cf7a9f317e5907.jpg",
+    "static/media/hojas_oro1.jpg": "/baneto/baneto.github.io.git/static/media/hojas_oro1.697f97d4c4ee9af23741.jpg",
+    "static/media/plumas_plata.jpg": "/baneto/baneto.github.io.git/static/media/plumas_plata.935c726ac57049148dfb.jpg",
+    "static/media/colgantes.jpg": "/baneto/baneto.github.io.git/static/media/colgantes.dcbd6a6dba04cd96f406.jpg",
+    "static/media/aros_oro.jpg": "/baneto/baneto.github.io.git/static/media/aros_oro.19536016361828b80542.jpg",
+    "static/media/colgantes1.jpg": "/baneto/baneto.github.io.git/static/media/colgantes1.0d87f38b17722a0ed17b.jpg",
+    "static/media/aros_plata1.jpg": "/baneto/baneto.github.io.git/static/media/aros_plata1.5f35c71394394a7dc490.jpg",
+    "static/media/plumas_oro.jpg": "/baneto/baneto.github.io.git/static/media/plumas_oro.64b308ed1df370391f70.jpg",
+    "static/media/hojas_oro.jpg": "/baneto/baneto.github.io.git/static/media/hojas_oro.d669043da5258968a46c.jpg",
+    "static/media/cactus_plata1.jpg": "/baneto/baneto.github.io.git/static/media/cactus_plata1.fce1e1d91755ceeb54aa.jpg",
+    "static/media/cactus_plata.jpg": "/baneto/baneto.github.io.git/static/media/cactus_plata.3912d0fe52c3d986eaa2.jpg",
+    "static/media/logo.jpg": "/baneto/baneto.github.io.git/static/media/logo.06b1d683fa5cbd2b97c5.jpg",
+    "static/media/aros_plata.jpg": "/baneto/baneto.github.io.git/static/media/aros_plata.bc0dd2e5922a2f46be5e.jpg",
     "index.html": "/baneto/baneto.github.io.git/index.html",
-    "main.073c9b0a.css.map": "/baneto/baneto.github.io.git/static/css/main.073c9b0a.css.map",
-    "main.966a14ab.js.map": "/baneto/baneto.github.io.git/static/js/main.966a14ab.js.map",
+    "main.2e22e8a5.css.map": "/baneto/baneto.github.io.git/static/css/main.2e22e8a5.css.map",
+    "main.e56b699e.js.map": "/baneto/baneto.github.io.git/static/js/main.e56b699e.js.map",
     "787.7f9b1c0f.chunk.js.map": "/baneto/baneto.github.io.git/static/js/787.7f9b1c0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.966a14ab.js"
+    "static/css/main.2e22e8a5.css",
+    "static/js/main.e56b699e.js"
   ]
 }
