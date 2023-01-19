@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2e22e8a5.css",
-    "main.js": "/static/js/main.2fea0965.js",
+    "main.css": "/static/css/main.ca055f29.css",
+    "main.js": "/static/js/main.a1a6fd33.js",
     "static/js/787.7f9b1c0f.chunk.js": "/static/js/787.7f9b1c0f.chunk.js",
     "static/media/aros_oro1.jpg": "/static/media/aros_oro1.0f73e149b7dbb3177c04.jpg",
     "static/media/pinias.jpg": "/static/media/pinias.3d1022cf7a9f317e5907.jpg",
@@ -14,16 +14,34 @@
     "static/media/plumas_oro.jpg": "/static/media/plumas_oro.64b308ed1df370391f70.jpg",
     "static/media/hojas_oro.jpg": "/static/media/hojas_oro.d669043da5258968a46c.jpg",
     "static/media/cactus_plata1.jpg": "/static/media/cactus_plata1.fce1e1d91755ceeb54aa.jpg",
+    "static/media/aros_oro_c.jpg": "/static/media/aros_oro_c.b752bd529d34db025e04.jpg",
+    "static/media/cactus_plata1_c.jpg": "/static/media/cactus_plata1_c.df34bd0c3742c02c434e.jpg",
+    "static/media/aros_plata1_c.jpg": "/static/media/aros_plata1_c.9f49244c645dc103f5a7.jpg",
+    "static/media/pinias_c.jpg": "/static/media/pinias_c.9a7f0ea59b5d102cddf3.jpg",
+    "static/media/plumas_plata_c.jpg": "/static/media/plumas_plata_c.3478e9638701ce99771f.jpg",
+    "static/media/cactus_oro_c.jpg": "/static/media/cactus_oro_c.41a0057bbef7ecfda318.jpg",
+    "static/media/plumas_oro_c.jpg": "/static/media/plumas_oro_c.9138b99cbbbd4069e7f9.jpg",
+    "static/media/hojas_oro_c.jpg": "/static/media/hojas_oro_c.c696eeceba9566c6f895.jpg",
+    "static/media/colgantes_c.jpg": "/static/media/colgantes_c.5d8cc10bef500c77ea4e.jpg",
+    "static/media/pinias_bn.jpg": "/static/media/pinias_bn.820eeea2fdfa17ed695d.jpg",
+    "static/media/aros_oro_bn.jpg": "/static/media/aros_oro_bn.777a947a8043300f7be5.jpg",
+    "static/media/cactus_oro_bn.jpg": "/static/media/cactus_oro_bn.a32c75a356d35b5969c3.jpg",
+    "static/media/cactus_plata1_bn.jpg": "/static/media/cactus_plata1_bn.5b65fb6df11f5fe90917.jpg",
+    "static/media/hojas_oro_bn.jpg": "/static/media/hojas_oro_bn.aa0f59d027ae4610fb96.jpg",
+    "static/media/aros_plata1_bn.jpg": "/static/media/aros_plata1_bn.e49fdcc6e2905e76dfb9.jpg",
+    "static/media/plumas_plana_bn.jpg": "/static/media/plumas_plana_bn.7c9b9e8a15c2cb35db16.jpg",
+    "static/media/plumas_oro_bn.jpg": "/static/media/plumas_oro_bn.4eb06ef258295bbcc17f.jpg",
+    "static/media/colgantes_bn.jpg": "/static/media/colgantes_bn.6bc28998762b46fa6dcf.jpg",
     "static/media/cactus_plata.jpg": "/static/media/cactus_plata.3912d0fe52c3d986eaa2.jpg",
     "static/media/logo.jpg": "/static/media/logo.06b1d683fa5cbd2b97c5.jpg",
     "static/media/aros_plata.jpg": "/static/media/aros_plata.bc0dd2e5922a2f46be5e.jpg",
     "index.html": "/index.html",
-    "main.2e22e8a5.css.map": "/static/css/main.2e22e8a5.css.map",
-    "main.2fea0965.js.map": "/static/js/main.2fea0965.js.map",
+    "main.ca055f29.css.map": "/static/css/main.ca055f29.css.map",
+    "main.a1a6fd33.js.map": "/static/js/main.a1a6fd33.js.map",
     "787.7f9b1c0f.chunk.js.map": "/static/js/787.7f9b1c0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e22e8a5.css",
-    "static/js/main.2fea0965.js"
+    "static/css/main.ca055f29.css",
+    "static/js/main.a1a6fd33.js"
   ]
 }
