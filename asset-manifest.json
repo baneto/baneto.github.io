@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d0507900.css",
-    "main.js": "/static/js/main.271b675a.js",
+    "main.js": "/static/js/main.401ed2b0.js",
     "static/js/787.7f9b1c0f.chunk.js": "/static/js/787.7f9b1c0f.chunk.js",
     "static/media/IMG_20200719_153717.jpg": "/static/media/IMG_20200719_153717.fee6fef07bcc6591e1b4.jpg",
     "static/media/IMG-20200722-WA0017.jpg": "/static/media/IMG-20200722-WA0017.966d50a954ac02cf020e.jpg",
@@ -35,7 +35,7 @@
     "static/media/IMG-20200803-WA0104.jpg": "/static/media/IMG-20200803-WA0104.b1286fc484b29cf5e25f.jpg",
     "static/media/hojas_oro1.jpg": "/static/media/hojas_oro1.d669043da5258968a46c.jpg",
     "static/media/aros_dorado_c.jpg": "/static/media/aros_dorado_c.b752bd529d34db025e04.jpg",
-    "static/media/cactus_plata_c.jpg": "/static/media/cactus_plata_c.df34bd0c3742c02c434e.jpg",
+    "static/media/cactus_plateado_c.jpg": "/static/media/cactus_plateado_c.df34bd0c3742c02c434e.jpg",
     "static/media/aros_plateado_c.jpg": "/static/media/aros_plateado_c.9f49244c645dc103f5a7.jpg",
     "static/media/pinias_c.jpg": "/static/media/pinias_c.9a7f0ea59b5d102cddf3.jpg",
     "static/media/IMG_20200714_234006.jpg": "/static/media/IMG_20200714_234006.786fbcdf2324b7990765.jpg",
@@ -66,11 +66,11 @@
     "static/media/IMG_20200716_193804_938.jpg": "/static/media/IMG_20200716_193804_938.5fbf5c147135f50c21ac.jpg",
     "index.html": "/index.html",
     "main.d0507900.css.map": "/static/css/main.d0507900.css.map",
-    "main.271b675a.js.map": "/static/js/main.271b675a.js.map",
+    "main.401ed2b0.js.map": "/static/js/main.401ed2b0.js.map",
     "787.7f9b1c0f.chunk.js.map": "/static/js/787.7f9b1c0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d0507900.css",
-    "static/js/main.271b675a.js"
+    "static/js/main.401ed2b0.js"
   ]
 }
