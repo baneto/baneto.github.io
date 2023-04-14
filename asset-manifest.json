@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d0507900.css",
-    "main.js": "/static/js/main.401ed2b0.js",
+    "main.css": "/static/css/main.71f09931.css",
+    "main.js": "/static/js/main.d30f0c42.js",
     "static/js/787.7f9b1c0f.chunk.js": "/static/js/787.7f9b1c0f.chunk.js",
     "static/media/IMG_20200719_153717.jpg": "/static/media/IMG_20200719_153717.fee6fef07bcc6591e1b4.jpg",
+    "static/media/fondo_contacto.jpg": "/static/media/fondo_contacto.fc354daa78b96bf20839.jpg",
     "static/media/IMG-20200722-WA0017.jpg": "/static/media/IMG-20200722-WA0017.966d50a954ac02cf020e.jpg",
     "static/media/caras_plata_beis.jpg": "/static/media/caras_plata_beis.1bde329d115b83cee82e.jpg",
     "static/media/caras_plateado.jpg": "/static/media/caras_plateado.f44f2c28f12c160563a7.jpg",
@@ -27,12 +28,10 @@
     "static/media/hojas_oro_beis.jpg": "/static/media/hojas_oro_beis.697f97d4c4ee9af23741.jpg",
     "static/media/cactus_plata_beis.jpg": "/static/media/cactus_plata_beis.e7f917677a72fdbb7e3b.jpg",
     "static/media/cactus_plateado.jpg": "/static/media/cactus_plateado.e021344925c80bec2fe1.jpg",
-    "static/media/IMG_20200724_114045.jpg": "/static/media/IMG_20200724_114045.98382f1e01ea29e5cd07.jpg",
     "static/media/caras_plateado_c.jpg": "/static/media/caras_plateado_c.01c17c395e864504495a.jpg",
     "static/media/colgantes_oro_beis.jpg": "/static/media/colgantes_oro_beis.0d87f38b17722a0ed17b.jpg",
     "static/media/IMG_20200716_192634_399.jpg": "/static/media/IMG_20200716_192634_399.83fc7f9e9851196a0fab.jpg",
     "static/media/IMG_20200716_193841_281.jpg": "/static/media/IMG_20200716_193841_281.87ede421b42bbada66f7.jpg",
-    "static/media/IMG-20200803-WA0104.jpg": "/static/media/IMG-20200803-WA0104.b1286fc484b29cf5e25f.jpg",
     "static/media/hojas_oro1.jpg": "/static/media/hojas_oro1.d669043da5258968a46c.jpg",
     "static/media/aros_dorado_c.jpg": "/static/media/aros_dorado_c.b752bd529d34db025e04.jpg",
     "static/media/cactus_plateado_c.jpg": "/static/media/cactus_plateado_c.df34bd0c3742c02c434e.jpg",
@@ -65,12 +64,12 @@
     "static/media/logo_bn.jpg": "/static/media/logo_bn.7828830dfff2621d3516.jpg",
     "static/media/IMG_20200716_193804_938.jpg": "/static/media/IMG_20200716_193804_938.5fbf5c147135f50c21ac.jpg",
     "index.html": "/index.html",
-    "main.d0507900.css.map": "/static/css/main.d0507900.css.map",
-    "main.401ed2b0.js.map": "/static/js/main.401ed2b0.js.map",
+    "main.71f09931.css.map": "/static/css/main.71f09931.css.map",
+    "main.d30f0c42.js.map": "/static/js/main.d30f0c42.js.map",
     "787.7f9b1c0f.chunk.js.map": "/static/js/787.7f9b1c0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d0507900.css",
-    "static/js/main.401ed2b0.js"
+    "static/css/main.71f09931.css",
+    "static/js/main.d30f0c42.js"
   ]
 }
