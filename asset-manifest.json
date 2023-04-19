@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.14569b18.css",
-    "main.js": "/static/js/main.97019e6e.js",
+    "main.css": "/static/css/main.208a2c0c.css",
+    "main.js": "/static/js/main.7c4fa7e5.js",
     "static/js/787.7f9b1c0f.chunk.js": "/static/js/787.7f9b1c0f.chunk.js",
     "static/media/luna_plateado.jpg": "/static/media/luna_plateado.302e214964d48a4aea51.jpg",
     "static/media/caras_dorado_original.jpg": "/static/media/caras_dorado_original.c58c8bbab6e3435248c0.jpg",
@@ -10,13 +10,13 @@
     "static/media/manos_dorado.jpg": "/static/media/manos_dorado.fe57f65e96165d914abf.jpg",
     "static/media/snoopy_plateado.jpg": "/static/media/snoopy_plateado.13ecccacad881519595c.jpg",
     "static/media/pez_plateado.jpg": "/static/media/pez_plateado.d10375ddab2136c49d13.jpg",
-    "static/media/manos_plateado.jpg": "/static/media/manos_plateado.6fa2391627671ae4b06d.jpg",
     "static/media/plumas_plateado_original.jpg": "/static/media/plumas_plateado_original.13301f1bee7dbc817602.jpg",
+    "static/media/manos_plateado_original.jpg": "/static/media/manos_plateado_original.3748ad3027b4de8af98f.jpg",
+    "static/media/manos_plateado.jpg": "/static/media/manos_plateado.57fe69e72b2189d2f546.jpg",
     "static/media/IMG_20200719_153717.jpg": "/static/media/IMG_20200719_153717.fee6fef07bcc6591e1b4.jpg",
     "static/media/caras_dorado.jpg": "/static/media/caras_dorado.e20103337a38d62f6371.jpg",
     "static/media/plumas_plateado.jpg": "/static/media/plumas_plateado.39b6d90f83f07d99c4b0.jpg",
     "static/media/pintura_moncho.jpg": "/static/media/pintura_moncho.e1fb2576fbb95dab56a7.jpg",
-    "static/media/fondo_contacto.jpg": "/static/media/fondo_contacto.fc354daa78b96bf20839.jpg",
     "static/media/IMG-20200722-WA0017.jpg": "/static/media/IMG-20200722-WA0017.966d50a954ac02cf020e.jpg",
     "static/media/caras_plata_beis.jpg": "/static/media/caras_plata_beis.1bde329d115b83cee82e.jpg",
     "static/media/caras_plateado.jpg": "/static/media/caras_plateado.f44f2c28f12c160563a7.jpg",
@@ -40,6 +40,7 @@
     "static/media/hojas_oro_beis.jpg": "/static/media/hojas_oro_beis.697f97d4c4ee9af23741.jpg",
     "static/media/cactus_plata_beis.jpg": "/static/media/cactus_plata_beis.e7f917677a72fdbb7e3b.jpg",
     "static/media/cactus_plateado.jpg": "/static/media/cactus_plateado.e021344925c80bec2fe1.jpg",
+    "static/media/fondo_contacto.jpg": "/static/media/fondo_contacto.f7488dcd57fe9e5eb450.jpg",
     "static/media/caras_dorado_c.jpg": "/static/media/caras_dorado_c.01c17c395e864504495a.jpg",
     "static/media/caras_plateado_c.jpg": "/static/media/caras_plateado_c.01c17c395e864504495a.jpg",
     "static/media/colgantes_oro_beis.jpg": "/static/media/colgantes_oro_beis.0d87f38b17722a0ed17b.jpg",
@@ -52,6 +53,7 @@
     "static/media/aros_plateado_c.jpg": "/static/media/aros_plateado_c.9f49244c645dc103f5a7.jpg",
     "static/media/pinias_c.jpg": "/static/media/pinias_c.9a7f0ea59b5d102cddf3.jpg",
     "static/media/IMG_20200714_234006.jpg": "/static/media/IMG_20200714_234006.786fbcdf2324b7990765.jpg",
+    "static/media/manos_plateado_c.jpg": "/static/media/manos_plateado_c.3478e9638701ce99771f.jpg",
     "static/media/plumas_plateado_c.jpg": "/static/media/plumas_plateado_c.3478e9638701ce99771f.jpg",
     "static/media/IMG_20200716_192127_724.jpg": "/static/media/IMG_20200716_192127_724.cb747e12e3f662d7e863.jpg",
     "static/media/logo_bn.jpg": "/static/media/logo_bn.558a052b784855e72c81.jpg",
@@ -67,6 +69,7 @@
     "static/media/hojas_dorado_bn.jpg": "/static/media/hojas_dorado_bn.aa0f59d027ae4610fb96.jpg",
     "static/media/IMG_20200714_234120.jpg": "/static/media/IMG_20200714_234120.800da187b6ed0b034446.jpg",
     "static/media/aros_plateado_bn.jpg": "/static/media/aros_plateado_bn.e49fdcc6e2905e76dfb9.jpg",
+    "static/media/manos_plateado_bn.jpg": "/static/media/manos_plateado_bn.7c9b9e8a15c2cb35db16.jpg",
     "static/media/plumas_plateado_bn.jpg": "/static/media/plumas_plateado_bn.7c9b9e8a15c2cb35db16.jpg",
     "static/media/plumas_dorado_bn.jpg": "/static/media/plumas_dorado_bn.4eb06ef258295bbcc17f.jpg",
     "static/media/colgantes_dorado_bn.jpg": "/static/media/colgantes_dorado_bn.6bc28998762b46fa6dcf.jpg",
@@ -80,12 +83,12 @@
     "static/media/aros_plata_old.jpg": "/static/media/aros_plata_old.bc0dd2e5922a2f46be5e.jpg",
     "static/media/IMG_20200716_193804_938.jpg": "/static/media/IMG_20200716_193804_938.5fbf5c147135f50c21ac.jpg",
     "index.html": "/index.html",
-    "main.14569b18.css.map": "/static/css/main.14569b18.css.map",
-    "main.97019e6e.js.map": "/static/js/main.97019e6e.js.map",
+    "main.208a2c0c.css.map": "/static/css/main.208a2c0c.css.map",
+    "main.7c4fa7e5.js.map": "/static/js/main.7c4fa7e5.js.map",
     "787.7f9b1c0f.chunk.js.map": "/static/js/787.7f9b1c0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14569b18.css",
-    "static/js/main.97019e6e.js"
+    "static/css/main.208a2c0c.css",
+    "static/js/main.7c4fa7e5.js"
   ]
 }
