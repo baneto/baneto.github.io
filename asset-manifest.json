@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.86204490.css",
+    "main.css": "/static/css/main.ffa30896.css",
     "main.js": "/static/js/main.4ca08be6.js",
     "static/js/787.7f9b1c0f.chunk.js": "/static/js/787.7f9b1c0f.chunk.js",
     "static/media/luna_plateado.jpg": "/static/media/luna_plateado.302e214964d48a4aea51.jpg",
@@ -84,12 +84,12 @@
     "static/media/aros_plata_old.jpg": "/static/media/aros_plata_old.bc0dd2e5922a2f46be5e.jpg",
     "static/media/IMG_20200716_193804_938.jpg": "/static/media/IMG_20200716_193804_938.5fbf5c147135f50c21ac.jpg",
     "index.html": "/index.html",
-    "main.86204490.css.map": "/static/css/main.86204490.css.map",
+    "main.ffa30896.css.map": "/static/css/main.ffa30896.css.map",
     "main.4ca08be6.js.map": "/static/js/main.4ca08be6.js.map",
     "787.7f9b1c0f.chunk.js.map": "/static/js/787.7f9b1c0f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.86204490.css",
+    "static/css/main.ffa30896.css",
     "static/js/main.4ca08be6.js"
   ]
 }
