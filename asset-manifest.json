@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.93a3f00b.css",
-    "main.js": "/static/js/main.745e168c.js",
+    "main.js": "/static/js/main.0f81dc6b.js",
     "static/js/787.7f9b1c0f.chunk.js": "/static/js/787.7f9b1c0f.chunk.js",
     "static/media/luna_plateado_original.jpg": "/static/media/luna_plateado_original.5c756102b0ead34a0c00.jpg",
     "static/media/manos_dorado_original.jpg": "/static/media/manos_dorado_original.7d83db4c2bb9712ac0d3.jpg",
@@ -101,11 +101,11 @@
     "static/media/IMG_20200716_193804_938.jpg": "/static/media/IMG_20200716_193804_938.5fbf5c147135f50c21ac.jpg",
     "index.html": "/index.html",
     "main.93a3f00b.css.map": "/static/css/main.93a3f00b.css.map",
-    "main.745e168c.js.map": "/static/js/main.745e168c.js.map",
+    "main.0f81dc6b.js.map": "/static/js/main.0f81dc6b.js.map",
     "787.7f9b1c0f.chunk.js.map": "/static/js/787.7f9b1c0f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.93a3f00b.css",
-    "static/js/main.745e168c.js"
+    "static/js/main.0f81dc6b.js"
   ]
 }
